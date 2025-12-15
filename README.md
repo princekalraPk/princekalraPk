@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-💼 Full Stack Web Developer with **3+ years** of experience creating intuitive and scalable web applications  
+💼 Full Stack Web Developer with **4 years** of experience creating intuitive and scalable web applications  
 🎯 Passionate about building user-friendly interfaces and robust backend systems  
 🌱 Currently working at **CSimplifyit**  
 💡 Love solving complex problems with clean, efficient code  
