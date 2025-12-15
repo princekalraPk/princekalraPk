@@ -1,7 +1,7 @@
 # Hi there, I'm Prince Kalra! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;3%2B+Years+of+Experience;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;4%2BYears+of+Experience;Building+Scalable+Applications" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -10,7 +10,7 @@
 🎯 Passionate about building user-friendly interfaces and robust backend systems  
 🌱 Currently working at **CSimplifyit**  
 💡 Love solving complex problems with clean, efficient code  
-📍 Based in Hisar, Haryana, India
+📍 Based in Rohtak, Haryana, India
 
 ## 🛠️ Tech Stack
 
@@ -44,6 +44,20 @@
 Comprehensive AI-powered software testing platform with adaptive test case generation, automated documentation, and real-time analytics for streamlined continuous delivery.
 
 **Tech Stack:** Angular, Node.js, AI Integration, Real-time Analytics
+
+---
+
+### 🚀 [Salio.ai - AI-Powered Quality Engineering Platform](https://salio.ai)
+Enterprise-grade AI-driven quality engineering platform that revolutionizes software testing with intelligent test case generation, execution automation, and visual testing capabilities. Features seamless integration with Figma, Jira, Git, and databases to accelerate release cycles and ensure flawless UI/UX across applications.
+
+**Tech Stack:** Angular, Node.js, AI/ML Integration, Figma API, Jira API, Git Integration, Visual Testing AI
+
+**Key Features:**
+- AI-powered test case generation and execution
+- Visual regression testing with AI
+- Multi-platform integration (Figma, Jira, Git, databases)
+- Automated defect management and tracking
+- Real-time analytics and reporting dashboard
 
 ---
 
@@ -116,7 +130,7 @@ Scalable system to streamline product distribution, stock management, and order 
   
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://princekalrapk.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princekalra014@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prince-kalra-1ba0a9171)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/princekalrapk)
 
 </div>
