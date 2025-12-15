@@ -50,15 +50,7 @@ Comprehensive AI-powered software testing platform with adaptive test case gener
 ### 🚀 [Salio.ai - AI-Powered Quality Engineering Platform](https://salio.ai)
 Enterprise-grade AI-driven quality engineering platform that revolutionizes software testing with intelligent test case generation, execution automation, and visual testing capabilities. Features seamless integration with Figma, Jira, Git, and databases to accelerate release cycles and ensure flawless UI/UX across applications.
 
-**Tech Stack:** Angular, Node.js, AI/ML Integration, Figma API, Jira API, Git Integration, Visual Testing AI
-
-**Key Features:**
-- AI-powered test case generation and execution
-- Visual regression testing with AI
-- Multi-platform integration (Figma, Jira, Git, databases)
-- Automated defect management and tracking
-- Real-time analytics and reporting dashboard
-
+**Tech Stack:** Angular, Node.js, AI/ML Integration,MongoDB
 ---
 
 ### ⚖️ [Legal AI Assistant](https://github.com/princekalrapk)
